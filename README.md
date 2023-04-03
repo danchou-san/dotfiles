@@ -1,1 +1,1 @@
-# dotfiles
+Just personal Arch Linux dotfiles
